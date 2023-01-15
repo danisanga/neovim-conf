@@ -1,4 +1,4 @@
-# danisanga's Neovim configuration
+# @danisanga's Neovim configuration
 Basic &amp; minimalist configuration for Neovim
 
 ---
