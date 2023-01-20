@@ -34,4 +34,5 @@ return require('packer').startup(function(use)
       {'rafamadriz/friendly-snippets'},
     }
   }
+  use 'eandrju/cellular-automaton.nvim'
 end)
